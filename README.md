@@ -1,4 +1,4 @@
-![Application screenshot](./public/screenshot.png)
+![Application screenshot](./public/sample.png)
 
 <br/>
 <br/>
